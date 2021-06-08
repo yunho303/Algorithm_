@@ -16,3 +16,9 @@ model number = 2, 5 layer
 ![image](https://user-images.githubusercontent.com/33649914/121194285-9339d080-c8a9-11eb-98f5-5ee1fd5f6e0d.png)
 
 
+model number = 3, 7 layer
+
+
+![image](https://user-images.githubusercontent.com/33649914/121196096-26bfd100-c8ab-11eb-8bb9-ee41dbe66fe5.png)
+![image](https://user-images.githubusercontent.com/33649914/121196215-41924580-c8ab-11eb-8e9d-ba6a3a83bf61.png)
+![image](https://user-images.githubusercontent.com/33649914/121196248-4951ea00-c8ab-11eb-863e-8c17b11d28ce.png)
